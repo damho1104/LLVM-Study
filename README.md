@@ -1,13 +1,13 @@
 # The Study Project for LLVM Compiler Infrastructure
 
-## **Leader**
-- Damho Lee
-
-## **Contents**
 * We study "LLVM Compiler Infrastructure" for code analysis.
 * We will implement examples based on data structure and analysis algorithms provided by LLVM or Clang at every weekends.
 
-<br>
+## **Leader**
+- Damho Lee ( [profile](https://github.com/damho1104) )
+
+## **Participant**
+- Wooyeol Park
 
 ## **Information**
 * **OS** : Ubuntu 20.04 x86-64
@@ -15,7 +15,7 @@
 * **The Directory of Study Example(s)** :
     * llvm-src/lib/Transforms/Study
    
-## **Examples**
+## **Contents**
 
 [Week01. [opt/IR Pass] LLVM IR Pass 하나 구축하기](./example/week01.md)  
 [Week02. [clang/IR Pass] 컴파일러 프론트엔드에 옵션 추가하고 소스코드에 정의된 함수 이름 출력하기](./example/week02.md)  
