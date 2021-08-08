@@ -1,4 +1,4 @@
-# The Study Project for LLVM Compiler Infrastructure
+# The Study Project for LLVM Compiler Infrastructure [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamho1104%2FLLVM-Study&count_bg=%234C68D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README+HIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 * We study "LLVM Compiler Infrastructure" for code analysis.
 * We will implement examples based on data structure and analysis algorithms provided by LLVM or Clang at every weekends.
